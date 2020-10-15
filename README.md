@@ -5,9 +5,7 @@ state). The content on your page should reflect your application state.
 TOOLS
 
 
-HTML
-SASS
-AJAX
+HTML, SASS, AJAX
 
 Taylor Dronfield
 for Fanshawe College - Interactive Media Design
