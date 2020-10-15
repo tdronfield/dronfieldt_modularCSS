@@ -1,2 +1,8 @@
-# dronfieldt_modularCSS
-Assignment #1: Rewrite some of the CSS for the course home page (supplied) as SASS. Think about modulare development and how to break down the page into logical sections. Use the SASS language to create modules that compile into a production-ready CSS file.
+Use an object to store data that will be populated on the page in the appropriate sections. Use
+Fetch or XHTTP on a page load to retrieve the data and place it in a data store (your application
+state). The content on your page should reflect your application state.
+
+AJAX
+
+Taylor Dronfield
+for Fanshawe College - Interactive Media Design
