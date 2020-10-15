@@ -3,6 +3,8 @@ Fetch or XHTTP on a page load to retrieve the data and place it in a data store 
 state). The content on your page should reflect your application state.
 
 TOOLS
+
+
 HTML
 SASS
 AJAX
